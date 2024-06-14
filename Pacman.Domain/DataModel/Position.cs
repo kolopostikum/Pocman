@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Pacman.Domain.DataModel
 {
-    internal class Fruit
+    internal class Position
     {
     }
 }
